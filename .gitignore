@@ -4,3 +4,6 @@ MainQuest01/data/*
 *.h5
 deep-learning-with-python-2nd
 aiffel_quest
+*.v2
+*.zip
+*/data
