@@ -62,6 +62,7 @@ model의 accuracy 및 loss가 문제 없이 측정되는 것을 보아, 에러�
 
 ![image](https://github.com/youungg/aiffel_quest_YYW/assets/149548911/ca969ec6-017a-43ab-8b2e-3836fb987022)
 
+
 위 사진을 통하여, 결과물에 대한 문제점 및 해결 방법, 느낀점이 상세히 기록 되어 있음을 알 수 있다.
 
 
