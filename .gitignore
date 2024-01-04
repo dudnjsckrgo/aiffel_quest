@@ -7,3 +7,6 @@ aiffel_quest
 *.v2
 *.zip
 */data
+kitti
+checkpoint
+checkpoints
