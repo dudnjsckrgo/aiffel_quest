@@ -10,3 +10,7 @@ aiffel_quest
 kitti
 checkpoint
 checkpoints
+*.jpg
+*.mdb
+*.tfrecord
+widerface
