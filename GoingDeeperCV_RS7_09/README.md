@@ -13,7 +13,8 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
      
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ef24da3-335f-452b-97d3-b78851bafbbb/a495b6c2-e1db-41fa-bad7-1962eaa85e13/Untitled.png)
+![image](https://github.com/youungg/aiffel_quest_YYW/assets/149548911/b10d619b-95e9-452a-9e6b-ebbc573ddd86)
+
 
 ![image](https://github.com/youungg/aiffel_quest_YYW/assets/149548911/7db31a06-21c6-472a-a62b-5def8113a783)
 
