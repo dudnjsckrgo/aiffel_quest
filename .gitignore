@@ -17,3 +17,5 @@ widerface
 tfrecords_mpii
 *.json
 *.tar.gz
+*.gif
+*.safetensors
